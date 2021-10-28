@@ -1,3 +1,2 @@
-export function main() {
-  console.log('hello');
-}
+export { generateHexer } from './generateHexer'
+export { generateCubers } from './generateCubers'
