@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/index.ts"],
+  "sourcesContent": ["export function main() {\n  console.log('hello');\n}\n"],
+  "mappings": "AAAO,YAAgB,CACrB,QAAQ,IAAI",
+  "names": []
+}
