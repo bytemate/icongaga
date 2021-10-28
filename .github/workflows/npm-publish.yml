@@ -4,8 +4,11 @@
 name: Node.js Package
 
 on:
-  release:
-    types: [created]
+  push:
+    branches:
+      - main
+    paths-ignore: 
+      - README.md
 
 jobs:
   build:
