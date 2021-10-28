@@ -1,1 +1,2 @@
-export declare function main(): void;
+export { generateHexer } from './generateHexer';
+export { generateCubers } from './generateCubers';
