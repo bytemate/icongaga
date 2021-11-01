@@ -39,6 +39,14 @@ This library is mainly a way of randomly generating icons on one of our internal
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
+## To Make Platform Website Less boring
+We place icon on GUI card to guide user when designing a platform, like hexagon for apps, cylinders for database, avaters for users. But those icons are usually static, which means different entities from same model share the same icon image. What if the icon changes based on some feature of entity?
+
+So we create two examples, one for team model, and one for app model. And Icongaga api generates unique Icon based on string you provide, hope you enjoy it!
+
+![image](https://user-images.githubusercontent.com/5474857/139640924-080d886b-c395-4297-8b99-540910635501.png)
+
+
 ### Installation
 
 Use npm to install it.
