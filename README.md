@@ -56,7 +56,7 @@ Use npm to install it.
   npm i @bdancer/icon-gaga
   ```
 
-### Service Worker
+### Cloudflare Workers API
 
 You can also call our api service.
 
