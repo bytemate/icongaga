@@ -1,4 +1,8 @@
-<div id="top"></div>
+<div id="top">
+  <style>
+    img[alt=drawing] { width: 25px; }
+  </style>
+</div>
 
 <!-- this README use template of
 <!-- https://github.com/othneildrew/Best-README-Template -->
@@ -25,10 +29,6 @@
     <br />
     <br />
   </p>
-
-  <style>
-    img[alt=drawing] { width: 25px; }
-  </style>
 
 </div>
 
