@@ -1,1 +1,80 @@
-# IconGaga
+<div id="top"></div>
+
+<!-- this README use template of
+<!-- https://github.com/othneildrew/Best-README-Template -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/bytedancer-lab/icongaga">
+    <img src="https://icongaga-api.bytedancer.workers.dev/api/hexer" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">ICON-GAGA</h3>
+
+  <p align="center">
+    An awesome random icon builder!
+    <br />
+    <a href="https://icongaga-site.pages.dev/"><strong>Explore the Sites »</strong></a>
+    <br />
+    <br />
+  </p>
+</div>
+
+## About The Project
+
+This library is mainly a way of randomly generating icons on one of our internal sites. You can use it directly or develop your own icon library in this way.
+
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Installation
+
+Use npm to install it.
+
+- npm
+  ```sh
+  npm i @bdancer/icon-gaga
+  ```
+
+### Service Worker
+
+<style>
+    img[alt=drawing] { width: 25px; }
+</style>
+
+You can also call our api service.
+
+![drawing](https://icongaga-api.bytedancer.workers.dev/api/genHexer?name=gaga)
+
+https://icongaga-api.bytedancer.workers.dev/api/genHexer?name=gaga
+
+![drawing](https://icongaga-api.bytedancer.workers.dev/api/genCubers?name=gaga)
+
+https://icongaga-api.bytedancer.workers.dev/api/genCubers?name=gaga
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+[contributors-shield]: https://img.shields.io/github/contributors/bytedancer-lab/icongaga.svg?style=for-the-badge
+[contributors-url]: https://github.com/bytedancer-lab/icongaga/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/bytedancer-lab/icongaga.svg?style=for-the-badge
+[forks-url]: https://github.com/bytedancer-lab/icongaga/network/members
+[stars-shield]: https://img.shields.io/github/stars/bytedancer-lab/icongaga.svg?style=for-the-badge
+[stars-url]: https://github.com/bytedancer-lab/icongaga/stargazers
+[issues-shield]: https://img.shields.io/github/issues/bytedancer-lab/icongaga.svg?style=for-the-badge
+[issues-url]: https://github.com/bytedancer-lab/icongaga/issues
+[license-shield]: https://img.shields.io/github/license/bytedancer-lab/icongaga.svg?style=for-the-badge
+[license-url]: https://github.com/bytedancer-lab/icongaga/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/othneildrew
+[product-screenshot]: images/screenshot.png
