@@ -25,6 +25,11 @@
     <br />
     <br />
   </p>
+
+  <style>
+    img[alt=drawing] { width: 25px; }
+  </style>
+
 </div>
 
 ## About The Project
@@ -46,10 +51,6 @@ Use npm to install it.
   ```
 
 ### Service Worker
-
-<style>
-    img[alt=drawing] { width: 25px; }
-</style>
 
 You can also call our api service.
 
