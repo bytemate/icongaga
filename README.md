@@ -1,7 +1,5 @@
 <div id="top">
-  <style>
-    img[alt=drawing] { width: 25px; }
-  </style>
+
 </div>
 
 <!-- this README use template of
@@ -54,11 +52,11 @@ Use npm to install it.
 
 You can also call our api service.
 
-![drawing](https://icongaga-api.bytedancer.workers.dev/api/genHexer?name=gaga)
+<img src="https://icongaga-api.bytedancer.workers.dev/api/genHexer?name=gaga" alt="Logo" width="35" height="35">
 
 https://icongaga-api.bytedancer.workers.dev/api/genHexer?name=gaga
 
-![drawing](https://icongaga-api.bytedancer.workers.dev/api/genCubers?name=gaga)
+<img src="https://icongaga-api.bytedancer.workers.dev/api/genCubers?name=gaga" alt="Logo" width="35" height="35">
 
 https://icongaga-api.bytedancer.workers.dev/api/genCubers?name=gaga
 
