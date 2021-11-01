@@ -7,9 +7,12 @@ on:
   push:
     branches:
       - main
-    paths-ignore:
-      - README.md
-
+    paths:
+      - 'tsconfig.json'
+      - 'esbuild.js'
+      - 'src/**'
+      - 'package.json'
+      - 'package-lock.json'
 jobs:
   build:
     runs-on: ubuntu-latest
