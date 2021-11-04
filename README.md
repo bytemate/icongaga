@@ -23,7 +23,7 @@
   <p align="center">
     An awesome random icon builder!
     <br />
-    <a href="https://icongaga-site.pages.dev/"><strong>Explore the Sites »</strong></a>
+    <a href="https://icongaga-page.pages.dev/"><strong>Explore the Sites »</strong></a>
     <br />
     <br />
   </p>
